@@ -16,7 +16,7 @@ const done = (value = {}) => {
 README:https://github.com/VirgilClyne/iRingo
 */
 
-let GeoCountryCode = "US";
+let GeoCountryCode = "TW";
 
 if (typeof $argument != "undefined") {
     let arg = Object.fromEntries($argument.split("&").map((item) => item.split("=")));
