@@ -1,4 +1,4 @@
-/*
+*/
 脚本功能：解锁CAD快速看图VIP
 脚本作者：R·E
 下载地址：https://apps.apple.com/cn/app/cad%E5%BF%AB%E9%80%9F%E7%9C%8B%E5%9B%BE-%E5%A4%A9%E6%AD%A3%E5%85%A8%E4%B8%93%E4%B8%9A/id878550740
