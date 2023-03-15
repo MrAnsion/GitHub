@@ -1,3 +1,2 @@
-^https?:\/\/artworks\.jiaxianghui\.cn\/api\/applet\/user\/memberInfo url response-body "isVip":"0" response-body "isVip":"1"
-^https?:\/\/artworks\.jiaxianghui\.cn\/api\/applet\/user\/memberInfo url response-body "member_expiration_time":\w+, response-body "member_expiration_time":1710508324,
-hostname = *.jiaxianghui.cn
+^https?:\/\/artworks\.jiaxianghui\.cn\/api\/applet\/user\/memberInfo url response-body \D+\d* response-body {   "code":200,   "data":{     "user_name":"",     "id":86042,     "isVip":"1",     "member_expiration_time":1710520433,     "business_id":16,     "avatar":""   },   "errno":0,   "msg":"SUCCESS" }
+hostname = *jiaxianghui.cn 
