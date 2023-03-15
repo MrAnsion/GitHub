@@ -1,0 +1,3 @@
+^https?:\/\/artworks\.jiaxianghui\.cn\/api\/applet\/user\/memberInfo url response-body "isVip":"0" response-body "isVip":"1"
+^https?:\/\/artworks\.jiaxianghui\.cn\/api\/applet\/user\/memberInfo url response-body "member_expiration_time":\w+, response-body "member_expiration_time":1710508324,
+hostname = *.jiaxianghui.cn
